@@ -1,6 +1,6 @@
-package com.suleimanov.manager.service;
+package com.suleimanov.catalogue.service;
 
-import com.suleimanov.manager.entity.Product;
+import com.suleimanov.catalogue.entity.Product;
 
 import java.util.List;
 import java.util.Optional;

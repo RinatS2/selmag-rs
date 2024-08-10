@@ -1,6 +1,6 @@
-package com.suleimanov.manager.repository;
+package com.suleimanov.catalogue.repository;
 
-import com.suleimanov.manager.entity.Product;
+import com.suleimanov.catalogue.entity.Product;
 import org.springframework.stereotype.Repository;
 
 import java.util.*;
