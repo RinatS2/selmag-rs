@@ -1,7 +1,7 @@
-package com.suleimanov.manager.service;
+package com.suleimanov.catalogue.service;
 
-import com.suleimanov.manager.entity.Product;
-import com.suleimanov.manager.repository.ProductRepository;
+import com.suleimanov.catalogue.entity.Product;
+import com.suleimanov.catalogue.repository.ProductRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
